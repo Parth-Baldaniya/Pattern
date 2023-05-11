@@ -16,3 +16,10 @@ public class Triangle01 {
         Triangle_01(5);
     }
 }
+
+output :-
+    1
+    01
+    101
+    0101
+    10101
