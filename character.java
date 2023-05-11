@@ -10,3 +10,9 @@ public class character {
         }
     }
 }
+
+output :-
+    A
+    BC
+    DEF
+    GHIJ
