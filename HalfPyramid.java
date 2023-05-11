@@ -14,3 +14,9 @@ public class HalfPyramid {
         Half_Pyranid(4);
     }
 }
+
+output :-
+    *
+   **
+  ***
+ ****
