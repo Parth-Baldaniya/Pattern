@@ -29,3 +29,14 @@ public class Butterfly {
         Butter_fly(4);
     }
 }
+
+
+output :-
+    *      *
+    **    **
+    ***  ***
+    ********
+    ********
+    ***  ***
+    **    **
+    *      *
