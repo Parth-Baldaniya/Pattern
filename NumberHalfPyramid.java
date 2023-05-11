@@ -11,3 +11,10 @@ public class NumberHalfPyramid {
         Number_Half_Pyramid(5);
     }
 }
+
+output :-
+    12345
+    1234
+    123
+    12
+    1
