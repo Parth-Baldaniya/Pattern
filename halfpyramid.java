@@ -8,3 +8,10 @@ public class halfpyramid {
         }
     }
 }
+
+
+output :-
+    1
+    12
+    123
+    1234
