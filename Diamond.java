@@ -23,3 +23,13 @@ public class Diamond {
         Dia_mond(4);
     }
 }
+
+output :-
+    *
+   ***
+  *****
+ *******
+ *******
+  *****
+   ***
+    *
