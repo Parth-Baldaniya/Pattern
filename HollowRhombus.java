@@ -19,3 +19,10 @@ public class HollowRhombus {
         Hollow_Rhombus(5);
     }
 }
+
+output :-
+    ******
+   *    *
+  *    *
+ *    *
+******
