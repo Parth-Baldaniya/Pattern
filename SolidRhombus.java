@@ -16,3 +16,10 @@ public class SolidRhombus {
         Solid_Rhombus(5);
     }
 }
+
+output :-
+    *****
+   *****
+  *****
+ *****
+*****
