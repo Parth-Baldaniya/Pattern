@@ -16,3 +16,9 @@ public class HollowRectangle{
         Hollow_Rectangle(4);
     }
 }
+
+output :-
+    *****
+    *   *
+    *   *
+    *****
